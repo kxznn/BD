@@ -13,19 +13,25 @@ Crie uma tabela chamada Funcionarios com as
 colunas:
 ID (int, chave primária):
 Identificação única dos funcionários.
+
 Nome (varchar): Nome completo do
 funcionário.
+
 Cargo (varchar): Posição ou título do
 funcionário dentro da empresa.
+
 Salario (decimal): Remuneração do
 funcionário.
+
 DataContratacao (date): Data de início na
 empresa.
 
 Já a segunda tabela pode ser Departamentos, com
 essas colunas:
 ID: Identificação única dos departamentos.
+
 Nome: Nome do departamento.
+
 Localizacao: Local onde o departamento está
 situado.
 
