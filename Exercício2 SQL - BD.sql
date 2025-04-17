@@ -36,4 +36,4 @@ select*from funcionários;
 
 SELECT nome, cargo, salário
 FROM Funcionários
-WHERE salário BETWEEN 4000.00 AND 8000.00;
+WHERE salário BETWEEN 3000.00 AND 6000.00;
