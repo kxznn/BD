@@ -4,6 +4,8 @@ Atividades de SQL
 1) Crie um banco de dados, insira informações nele e responda: quantas disciplinas estão cadastradas,
 quantos alunos estão registrados e quais cursos são oferecidos.
 
+
+
 2) CREATE DATABASE e USE
 Crie um banco de dados chamado EmpresaX e
 selecione-o para uso.
@@ -65,3 +67,9 @@ ALTER TABLE
 Adicione uma nova coluna chamada Departamento
 (varchar) à tabela Funcionarios, para especificar em
 qual departamento cada funcionário trabalha.
+
+
+
+3) Cenário da Empresa: Gestão de Vendas
+A empresa realiza vendas de produtos para clientes.
+Cada venda é registrada, com seus produtos, data e vendedor responsável.
