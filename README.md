@@ -10,8 +10,7 @@ quantos alunos estão registrados e quais cursos são oferecidos.
 Crie o banco "EmpresaX", tabelas relacionadas, insira dados e consulte informações para gestão de vendas.
 
 3.
-    Cenário da Empresa: Gestão de Vendas
-  
-  A empresa realiza vendas de produtos para clientes.
-  
+Cenário da Empresa: Gestão de Vendas
+
+A empresa realiza vendas de produtos para clientes. 
 Cada venda é registrada, com seus produtos, data e vendedor responsável.
