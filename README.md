@@ -13,3 +13,5 @@ Crie o banco "EmpresaX", tabelas relacionadas, insira dados e consulte informaç
 Cenário da Empresa: Gestão de Vendas
 
 A empresa realiza vendas de produtos para clientes.  Cada venda é registrada, com seus produtos, data e vendedor responsável.
+
+4. Utilização do Procecure, Function e view.
